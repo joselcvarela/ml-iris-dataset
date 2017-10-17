@@ -1,0 +1,16 @@
+{
+  "name": "machinelearn",
+  "version": "1.0.0",
+  "description": "Tutorial machine learning - Use case of Iris dataset and kNN Supervised algorythm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Varela",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ml-knn": "^2.1.2",
+    "prompt": "^1.0.0"
+  }
+}
